@@ -38,6 +38,7 @@
 }
 
 .in input {
+    caret-color: white;
     height: 36px;
     width: 260px;
     background-color: rgba(128, 128, 128, 0.165);
@@ -176,4 +177,77 @@
     color: white;
     opacity: 0.6;
     background-color: black;
+}
+@media (max-width: 500px) {
+    .box {
+        width: 90%;
+        margin-left: auto;
+        margin-right: auto;
+    }
+
+    .box2 {
+        width: 90%;
+        margin-left: auto;
+        margin-right: auto;
+    }
+
+    .heading {
+        font-size: 32px;
+        margin-left: 0;
+        text-align: center;
+    }
+
+    .in input {
+        width: 90%;
+    }
+
+    .btn {
+        width: 90%;
+        margin-left: auto;
+        margin-right: auto;
+        display: block;
+    }
+
+    .face {
+        margin-left: auto;
+        margin-right: auto;
+        justify-content: center;
+        flex-wrap: wrap;
+    }
+
+    .last {
+        margin-left: 0;
+        text-align: center;
+        font-size: 14px;
+    }
+
+    .box3 {
+        width: 90%;
+        margin-left: auto;
+        margin-right: auto;
+        flex-wrap: wrap;
+        justify-content: center;
+        text-align: center;
+        gap: 5px;
+        margin: 20px auto 0 auto;
+    }
+    .box3 p{
+        font-size: 10px;
+        margin: 2px 5px;
+        width: auto;
+    }
+
+    .box4 {
+        width: 90%;
+        margin: 10px auto;
+        margin-left: auto;
+        margin-right: auto;
+        justify-content: center;
+        flex-wrap: wrap;
+    }
+
+    .box4 p {
+        margin-left: 5px;
+        margin-top: 55px;
+    }
 }
