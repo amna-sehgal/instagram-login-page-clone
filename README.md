@@ -33,7 +33,8 @@ s2.css
 ---
 
 ## 📸 Screenshots
-![login page](Screenshot 2025-08-05 182423)
+### Login page
+![login page](Screenshot%202025-08-05%20182423)
 ---
 
 ## 🙋‍♀️ Author
