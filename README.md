@@ -35,6 +35,7 @@ s2.css
 ## 📸 Screenshots
 ### Login page
 ![login page](Screenshot%202025-08-05%20182423)
+
 ---
 
 ## 🙋‍♀️ Author
