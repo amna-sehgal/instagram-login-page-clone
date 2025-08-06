@@ -39,6 +39,7 @@
 
 .in input {
     caret-color: white;
+    color: white;
     height: 36px;
     width: 260px;
     background-color: rgba(128, 128, 128, 0.165);
